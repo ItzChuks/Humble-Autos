@@ -117,9 +117,9 @@ export const cars: Car[] = [
     category: 'electric',
     rating: 4.7,
     images: [
-      'https://images.pexels.com/photos/7354442/pexels-photo-7354442.jpeg',
-      'https://images.pexels.com/photos/7354443/pexels-photo-7354443.jpeg',
-      'https://images.pexels.com/photos/7354444/pexels-photo-7354444.jpeg',
+      'https://unsplash.com/photos/black-porsche-911-on-road-during-sunset-49gi04Retc4',
+      'https://unsplash.com/photos/black-porsche-911-on-road-during-sunset-49gi04Retc4',
+      'https://unsplash.com/photos/black-porsche-911-on-road-during-sunset-49gi04Retc4',
     ],
     description: 'The Tesla Model S Plaid is the fastest accelerating production car ever made, combining ludicrous performance with zero emissions and cutting-edge technology.',
     features: [
